@@ -5,7 +5,7 @@ This repository demonstrates how **Net Gaming Revenue (NGR)** is calculated at a
 
 The pipeline consolidates **session-level gameplay data**, **promotional redemptions**, and **tournament payouts** into a single **Snowflake Dynamic Table**, enabling accurate profitability analysis by player, game category, brand, and site.
 
-This table serves as a **single source of truth for player-level profitability**, supporting casino operations, CRM, and finance teams with **real-time, revenue-aware decision-making**.
+This table acts as a reliable source for player-level profitability, enabling casino operations, CRM, and finance teams to make revenue-informed decisions.
 
 ---
 
