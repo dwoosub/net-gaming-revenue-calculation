@@ -121,9 +121,7 @@ The final Net Gaming Revenue is calculated directly in the output layer:
 
 ```sql
 -- NGR Calculation
-GGR 
-- REDEEMED_AMOUNT 
-- TNMT_CASH_PRIZE AS NGR
+GGR - REDEEMED_AMOUNT - TNMT_CASH_PRIZE AS NGR
 ```
 
 This produces a **clean, auditable, finance-ready NGR metric** per:
